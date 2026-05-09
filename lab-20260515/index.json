@@ -1,14 +1,21 @@
 {
-  "title": "Lab 20260515",
-  "description": "Laboratorio del 15 de mayo de 2026",
-  "difficulty": "intermediate",
-  "time": 60,
-  "backend": {
-    "imageid": "docker-image-name:latest",
-    "memory": 1024,
-    "cpu": 2
+  "title": "Instalación de HAPI FHIR con Docker",
+  "description": "Aprende a desplegar un servidor FHIR funcional en segundos.",
+  "details": {
+    "steps": [
+      {
+        "title": "Levantar el servidor",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
   },
-  "environment": {
-    "variables": []
+  "backend": {
+    "imageid": "ubuntu" 
+  },
+  "interface": {
+    "layout": "ide-top-terminal-bottom"
   }
 }
