@@ -1,0 +1,14 @@
+{
+  "title": "Lab 20260515",
+  "description": "Laboratorio del 15 de mayo de 2026",
+  "difficulty": "intermediate",
+  "time": 60,
+  "backend": {
+    "imageid": "docker-image-name:latest",
+    "memory": 1024,
+    "cpu": 2
+  },
+  "environment": {
+    "variables": []
+  }
+}
