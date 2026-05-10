@@ -1,4 +1,4 @@
-Paso 2. Descarga y despliegue del servidor
+### Paso 2/4. Descarga y despliegue del servidor
 Vamos a ejecutar un comando que hará dos cosas: descargar la imagen oficial desde Docker Hub y levantar el servidor.
 
 Ejecuta el siguiente comando (puedes copiar y pegar en la terminal):
