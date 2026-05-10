@@ -4,8 +4,20 @@
   "details": {
     "steps": [
       {
-        "title": "Levantar el servidor",
+        "title": "Verificación de Docker",
         "text": "step1.md"
+      },
+      {
+        "title": "Descarga y despliegue del servidor",
+        "text": "step2.md"
+      },
+      {
+        "title": "Monitoreo del arranque",
+        "text": "step3.md"
+      },
+      {
+        "title": "Acceso a la interfaz web HAPI FHIR",
+        "text": "step4.md"
       }
     ],
     "intro": {
