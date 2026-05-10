@@ -13,5 +13,5 @@ docker --version
 
 Luego revisa si hay otros contenedores corriendo: 
 ```bash
-docker --ps
+docker ps
 ```{{copy}}
