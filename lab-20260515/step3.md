@@ -1,4 +1,4 @@
-### 3. Monitoreo del arranque (Paso crítico)
+### Paso 3/4. Monitoreo del arranque (Paso crítico)
 HAPI FHIR es un servidor basado en Java y tarda unos segundos en "despertar". 
 No intentes entrar a la web todavía. Ejecuta el siguiente comando para ver los registros del servidor:
 
