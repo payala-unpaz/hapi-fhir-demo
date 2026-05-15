@@ -10,7 +10,8 @@
       },
       {
         "title": "Descarga y despliegue del servidor",
-        "text": "step2.md"
+        "text": "step2.md",
+        "verify": "step2-verify.sh"
       },
       {
         "title": "Monitoreo del arranque",
