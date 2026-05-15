@@ -5,7 +5,8 @@
     "steps": [
       {
         "title": "Verificación de Docker",
-        "text": "step1.md"
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
       },
       {
         "title": "Descarga y despliegue del servidor",
