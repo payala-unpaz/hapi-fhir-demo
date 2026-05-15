@@ -1,12 +1,9 @@
-# Bienvenida al Laboratorio 20260515
+# Bienvenido al Laboratorio del seminario "De la teoría al servidor: estandarización de datos de salud con FHIR".
 
-Este es el texto de bienvenida para el laboratorio.
+Realizado en UNPAZ los días 14, 15 y 16 de Mayo de 2026.
 
-## Descripción
+## Descripción general
 
-Agrega aquí la descripción general del laboratorio y qué aprenderán los alumnos.
-
-## Requisitos
-
-- Requisito 1
-- Requisito 2
+El requerimiento para realizar este taller son tener una cuenta para hacer log-in. 
+El taller se realizará con Killerocoda y ClinFHIR al mismo tiempo.
+Las sesiones durante el taller durarán 4 horas, luego serán de 1 hora.
